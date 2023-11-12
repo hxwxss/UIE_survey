@@ -41,7 +41,7 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
 
 ## (2023.2) UMGAN: Underwater Image Enhancement Network for Unpaired Image-to-Image Translation
 
-  DOI: 10.3390/jmse11020447 
+  DOI: https://doi.org/10.3390/jmse11020447 
 
   Method: underwater multiscene generative adversarial network (UMGAN)
 
@@ -51,19 +51,16 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
 
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282286189-806325d8-8772-4cc7-8177-2aff16ad1c77.png" width="600px">
 
-## (2022.2) Two-step domain adaptation for underwater image enhancement
+## (2021.12) Unpaired Underwater Image Enhancement Based on CycleGAN
 
-  DOI: 10.1016/j.patcog.2021.108324
+  DOI: https://doi.org/10.3390/info13010001
+  
+  Method: Cycle generative adversarial network (UW-CycleGAN)
 
-  Method:Transfer Learning
-      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/69df32af-f6af-40e4-b9cc-3de6396039da)
+  Dataset: URPC2019, EUVP
 
-  Database: RUIE, UIEB, RESIDE, NTIRE
-
-  Apperance:
-      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/14022117-a85b-4441-8f74-1cac8830b40a)
-      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/f5fa2c45-0c07-41fa-8923-5377979bba7d)
-      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/e1c47d3d-958e-4c35-b731-40305e481c85)
+  As shown in figure 2: The UW-CycleGAN architecture employs two generators and two discriminators to enhance underwater images. The generators are responsible for transforming the original images to enhanced images and back, ensuring content consistency; the discriminators evaluate the realism of the images. The process does not require paired data, relying instead on cycle consistency and content preservation to learn image enhancement.
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282287044-46c5dba8-ba1c-4a49-94b8-5145ef8a5d62.png" width="600px">
 
 # others
 ## (2019.11) An Underwater Image Enhancement Benchmark Dataset and Beyond
