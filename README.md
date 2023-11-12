@@ -16,7 +16,6 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   Method:![image](https://github.com/hxwxss/UIE_survey/assets/44568039/3d6cf946-79f9-4a5d-9796-4a26d471cc6e)
 
   Apperance:
-  
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/d86561d8-10e7-47ee-9423-9929977d49cc)
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/e3854c63-0e74-4fe0-b1ae-d41f28a60069)
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/ea069e07-1771-4264-832f-969372785cd2)
@@ -36,7 +35,6 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   Database: Laboratory(Unavailable), UIEB, RUIE
 
   Apperance:
-  
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/639cab80-58e0-4b47-85ee-d86a724409f7)
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/b3b0d461-6bfa-46aa-87be-612b46d89f94)
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/5ebba536-2f04-46e2-958f-8798d2c1c2f6)
@@ -62,5 +60,4 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   Database: UCCS, UIQS, UIEB
   
   Apperance: 
-  
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/b01b1466-00db-4822-834f-cfeec8b66502)
