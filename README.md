@@ -95,16 +95,3 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   Appearance: 
 
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282284852-373a807b-b8a8-48b5-838f-33a878ecf680.png" height="300px"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282284899-7c841ef3-d255-469e-8817-5c46896de4fd.png" height="300px">
-
-  ## (2023.2) UMGAN: Underwater Image Enhancement Network for Unpaired Image-to-Image Translation
-
-  DOI: https://doi.org/10.3390/jmse11020447 
-
-  Method: underwater multiscene generative adversarial network (UMGAN)
-
-  Dataset: UIEB, EUVP
-  
-  Appearance:
-
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282286189-806325d8-8772-4cc7-8177-2aff16ad1c77.png" width="600px">
-
