@@ -24,6 +24,19 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   Repository: https://github.com/WojciechKoz/Dimma
 
 # unsupervised
+## (2023.5) Real-World Underwater Image Enhancement Based on Attention U-Net
+
+  DOI: https://doi.org/10.3390/jmse11030662
+
+  Method: A conditional generative adversarial network model based on attention U-Net which contains an attention gate mechanism
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282288195-effdbe5d-d552-4c1e-b9d2-f78f9f37a95b.png" width="600px">
+
+  Database: UIEB, EUVP
+
+  Appearance: 
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282288362-ad5babfe-a982-4bfb-8b9c-ce67fdc42596.png" width="600px">
+  
+
 ## (2023.4) Underwater Image Enhancement Based on Zero-Reference Deep Network
 
   DOI: 10.1109/JOE.2023.3245686
