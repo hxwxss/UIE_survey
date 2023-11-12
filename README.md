@@ -51,7 +51,7 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
 
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282286189-806325d8-8772-4cc7-8177-2aff16ad1c77.png" width="600px">
 
-## (2022.2) 
+## (2022.2) Two-step domain adaptation for underwater image enhancement
 
   DOI: 10.1016/j.patcog.2021.108324
 
