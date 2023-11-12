@@ -12,7 +12,7 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
 # unsupervised
 
 # others
-## Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement
+## (2022) Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement
   DOI:10.1109/TIP.2022.3177129 
   
   Method:Locally Adaptive Color Correction Method
