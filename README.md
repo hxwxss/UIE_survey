@@ -90,6 +90,16 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
 
   Database: Laboratory(Unavailable)
 
+## (2021.1) EnlightenGAN: Deep Light Enhancement Without Paired Supervision
+
+  DOI: 10.1109/TIP.2021.3051462
+
+  Method: 
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/634b8214-b266-4a19-a0f0-04ee11f40298)
+
+  Appearance:
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/69220d2c-fe47-4cdd-afa6-685e7348c3e9)
+
 # others
 ## (2019.11) An Underwater Image Enhancement Benchmark Dataset and Beyond
 
@@ -142,8 +152,10 @@ DOI:10.1016/j.engappai.2021.104171
 Method:
   Color Correction:
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/4d6d8a35-98a9-4570-a786-f7dbc08e9432)
+      
   Bayesian retinex image enhancement:
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/4689f4b4-825c-436f-b213-b2ad05a42ad9)
+      
   Illumination adjustment:
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/65b0eff7-e76d-464b-bd29-c36c713342c3)
 
