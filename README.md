@@ -62,6 +62,20 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   As shown in figure 2: The UW-CycleGAN architecture employs two generators and two discriminators to enhance underwater images. The generators are responsible for transforming the original images to enhanced images and back, ensuring content consistency; the discriminators evaluate the realism of the images. The process does not require paired data, relying instead on cycle consistency and content preservation to learn image enhancement.
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282287044-46c5dba8-ba1c-4a49-94b8-5145ef8a5d62.png" width="600px">
 
+## (2019.7) Underwater Image Enhancement With a Deep Residual Framework
+
+  DOI: 10.1109/ACCESS.2019.2928976
+
+  Method: 
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/957a8728-cc0b-4134-b891-9392d4cf2e84)
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/32795abe-8692-4423-84f3-49b0cda3cdad)
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/1b9b0f0e-aadd-4fd0-a894-e762a41a7807)
+
+  Database:Public Database
+
+  Apperance:
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/3e1572f4-26a5-43bf-8b4a-39773874a47a)
+
 # others
 ## (2019.11) An Underwater Image Enhancement Benchmark Dataset and Beyond
 
