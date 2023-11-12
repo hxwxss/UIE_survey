@@ -75,6 +75,16 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   As shown in figure 2: The UW-CycleGAN architecture employs two generators and two discriminators to enhance underwater images. The generators are responsible for transforming the original images to enhanced images and back, ensuring content consistency; the discriminators evaluate the realism of the images. The process does not require paired data, relying instead on cycle consistency and content preservation to learn image enhancement.
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282287044-46c5dba8-ba1c-4a49-94b8-5145ef8a5d62.png" width="600px">
 
+## (2021.1) EnlightenGAN: Deep Light Enhancement Without Paired Supervision
+
+  DOI: 10.1109/TIP.2021.3051462
+
+  Method: 
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/634b8214-b266-4a19-a0f0-04ee11f40298)
+
+  Appearance:
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/69220d2c-fe47-4cdd-afa6-685e7348c3e9)
+
 ## (2019.7) Underwater Image Enhancement With a Deep Residual Framework
 
   DOI: 10.1109/ACCESS.2019.2928976
@@ -85,9 +95,6 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/1b9b0f0e-aadd-4fd0-a894-e762a41a7807)
 
   Database:Public Database
-
-  Apperance:
-      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/3e1572f4-26a5-43bf-8b4a-39773874a47a)
 
 ## (2019.6) Underwater Image Enhancement Using a Multiscale Dense Generative Adversarial Network
 
@@ -100,18 +107,9 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   Apperance:
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/374b5255-28a4-4a93-beea-6617c82bf1f1)
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/626bbb80-195e-4af2-8f4f-735d70a46121)
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/3e1572f4-26a5-43bf-8b4a-39773874a47a)
 
   Database: Laboratory(Unavailable)
-
-## (2021.1) EnlightenGAN: Deep Light Enhancement Without Paired Supervision
-
-  DOI: 10.1109/TIP.2021.3051462
-
-  Method: 
-      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/634b8214-b266-4a19-a0f0-04ee11f40298)
-
-  Appearance:
-      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/69220d2c-fe47-4cdd-afa6-685e7348c3e9)
 
 # others
 ## (2019.11) An Underwater Image Enhancement Benchmark Dataset and Beyond
