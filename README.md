@@ -109,3 +109,23 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   Appearance: 
 
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282284852-373a807b-b8a8-48b5-838f-33a878ecf680.png" height="300px"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103725218/282284899-7c841ef3-d255-469e-8817-5c46896de4fd.png" height="300px">
+
+## (2021.5) Bayesian retinex underwater image enhancement
+
+DOI:10.1016/j.engappai.2021.104171
+
+Method:
+  Color Correction:
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/4d6d8a35-98a9-4570-a786-f7dbc08e9432)
+  Bayesian retinex image enhancement:
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/4689f4b4-825c-436f-b213-b2ad05a42ad9)
+  Illumination adjustment:
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/65b0eff7-e76d-464b-bd29-c36c713342c3)
+
+Database: from Repository
+
+Apperance: 
+    ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/420c82d0-a06c-4e01-ac09-d9e1d10d9088)
+    ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/4806e633-2ede-4836-a513-aab19279342a)
+
+Repository: https://github.com/zhuangpeixian/Bayesian-Retinex-Underwater-Enhancement
