@@ -76,6 +76,20 @@ Articles shall be in recent 3 years to keep up with the advanced feature.
   Apperance:
       ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/3e1572f4-26a5-43bf-8b4a-39773874a47a)
 
+## (2019.6) Underwater Image Enhancement Using a Multiscale Dense Generative Adversarial Network
+
+  DOI: 10.1109/JOE.2019.2911447
+
+  Method:
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/a5a27439-3ce0-4f62-a86e-14a8286bf1ff)
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/cc492e05-2dc9-4fad-927c-8c7bc911b5dc)
+
+  Apperance:
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/374b5255-28a4-4a93-beea-6617c82bf1f1)
+      ![image](https://github.com/hxwxss/UIE_survey/assets/44568039/626bbb80-195e-4af2-8f4f-735d70a46121)
+
+  Database: Laboratory(Unavailable)
+
 # others
 ## (2019.11) An Underwater Image Enhancement Benchmark Dataset and Beyond
 
